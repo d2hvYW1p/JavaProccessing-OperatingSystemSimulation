@@ -1,0 +1,53 @@
+Round robin 1. Preemptive Scheduling: 
+https://www.google.com/search?q=round+robin+java+code&oq=round-robin+j&aqs=chrome.2.69i57j0i22i30l9.10588j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.programmersought.com/article/28606282488/
+https://javahungry.blogspot.com/2013/09/round-robin-scheduling-algorithm-with-example-java-program-code.html
+https://www.geeksforgeeks.org/program-round-robin-scheduling-set-1/
+https://www.geeksforgeeks.org/round-robin-scheduling-with-different-arrival-times/
+https://atechdaily.com/posts/Round-Robin-Algorithm-with-implementation-in-Java
+https://gist.github.com/Makistos/7192934#file-round-robin-java-L34
+
+
+
+Next fit memory management algorithm:
+https://www.google.com/search?q=next+fit+algorithm+java&sxsrf=ALeKk03zuQr-yxepYCgzLCaexpfA9KKbUg%3A1621357521135&ei=0fOjYJ_NB5nekwXVi5_IDw&oq=next+fit+algorithm+java&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBOgcIIxCwAxAnOgcIABBHELADOgQIIxAnOgYIIxAnEBM6CAgAELEDEIMBOg4IABCxAxCDARDHARCjAjoFCAAQsQM6BAgAEEM6CwgAELEDEMcBEKMCOgcIABCxAxBDOgIIADoKCAAQsQMQgwEQQzoFCC4QsQM6BAguEEM6CAgAEMcBEK8BOgIILjoFCC4QywE6CwgAEMcBEK8BEMsBOgcIABAKEMsBOggIABDJAxDLAToGCAAQFhAeUJUZWNFTYJpVaANwAngAgAGVAYgBjw-SAQQwLjE1mAEAoAEBqgEHZ3dzLXdpesgBCcABAQ&sclient=gws-wiz&ved=0ahUKEwjf-ea429PwAhUZ76QKHdXFB_kQ4dUDCA4&uact=5
+
+https://www.geeksforgeeks.org/program-for-next-fit-algorithm-in-memory-management/
+https://tutorialspoint.dev/computer-science/operating-systems/program-next-fit-algorithm-memory-management
+https://prepinsta.com/operating-systems/page-replacement-algorithms/next-fit-algorithm/next-fit-in-java/
+
+Swapping in operating systems.
+
+https://www.researchgate.net/post/How_to_implement_OS_Mem_Paging_and_Swapping_Project
+https://www.javatpoint.com/swapping-in-operating-system
+
+All Times
+https://www.gatevidyalay.com/turn-around-time-response-time-waiting-time/
+
+Proccess Scheduler
+https://github.com/brunnerjosh/process-scheduling-algorithms/blob/master/Scheduler.java
+
+
+File
+https://techterms.com/definition/file
+
+WorstFit
+http://java.algorithmexamples.com/web/Others/WorstFit.html
+
+
+Process States
+https://www.studytonight.com/operating-system/operating-system-processes
+https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/
+
+Basic Concepts of operating systems
+http://faculty.salina.k-state.edu/tim/ossg/Introduction/OSrole.html
+https://www.tutorialspoint.com/operating_system/index.htm
+
+Disk partitioning 
+https://en.wikipedia.org/wiki/Disk_partitioning
+
+
+
+Preemptive vs Non premeptive schedulling 
+https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/
